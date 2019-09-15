@@ -1,5 +1,4 @@
-OpenCola
-========
+# OpenCola
 
 Open Source Coca Cola
 
@@ -13,3 +12,9 @@ promotional tool to explain free and open source software, the drink took on a l
 sold. The Toronto-based company Opencola founded by Grad Conn, Cory Doctorow, and John Henson became better known for 
 the drink than the software it was supposed to promote. Laird Brown, the company's senior strategist, attributes its 
 success to a widespread mistrust of big corporations and the "proprietary nature of almost everything."
+
+
+## Versions:
+- Regular: [Metric](https://github.com/lowlevelm/OpenCola/blob/master/metric.md) Imperial
+- Vanilla: Coming soon!
+- Cherry: Coming soon!
